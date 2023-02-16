@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url(/image/bac1.jpg);
+    background-image: url(../image/bac1.jpg);
     background-size: cover;
     position: relative;
     min-height: 100vh;
